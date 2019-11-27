@@ -1,5 +1,5 @@
-title: Cayman theme
-description: Cayman is a clean, responsive theme for GitHub Pages.
-show_downloads: true
+title: 朝夕的技术站点
+description: 欢迎来到这里，这里是一些技术随笔和分享
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman

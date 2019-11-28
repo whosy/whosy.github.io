@@ -13,6 +13,7 @@ layout: default
 # 数据结构和算法
 理论部分：  
 [数组](./data/array.html)
+[链表](./data/link.html)
 
 这里的算法题目主要来源<a href='https://leetcode-cn.com'>leetcode</a>.  
 [1.两数之和](./arts/algorithm.2019.11.27.html)
